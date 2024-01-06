@@ -1,10 +1,7 @@
 # Report Automation
-======================
-Selenium-based Robotic Process Automation Service to Extract Report Data from RezMagic
-
+Selenium-based Robotic Process Automation Service to Extract Report Data.
 
 ## Project Path
-
 Assume Project Path is:
 /rezsystem/workspace_antartica/report-automation
 
